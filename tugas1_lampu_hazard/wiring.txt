@@ -1,0 +1,10 @@
+TUGAS 1
+Button PC5
+Switch SPST PC3
+Switch SPDT1 PC1
+Switch SPDT2 PC0
+
+Pin Output VCC LED PB5-PB0
+Pin Output GND LED PD7-PD2
+
+

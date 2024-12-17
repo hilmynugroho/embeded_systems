@@ -1,0 +1,5 @@
+Button1 PB4
+Button2 PB5
+
+IR trnasmitter pin (+) PB2
+IR transmitter pin (-) GND
